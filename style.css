@@ -1,0 +1,65 @@
+.logo {
+    height: 150px;
+    text-align: center;
+}
+
+img {
+    height: 40%;
+}
+
+.motto {
+    height: 30px;
+    text-align: center;
+    margin-top: 60px;
+    background-color: rgba(255, 255, 0, 0.1);
+    border-top: 3px solid yellow;
+    color: rgb(16, 98, 90);
+    font-size: 25px;
+    line-height: 50px;
+}
+
+.Simply {
+    text-transform: uppercase;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
+.title {
+    text-align: center;
+}
+
+.focaccia {
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px light grey;
+}
+
+.padre {
+    height: 950px;
+    border-radius: 10px;
+}
+
+.sally {
+    text-align: center;
+    color: grey;
+    opacity: 60%;
+}
+
+.sito {
+    border-left: 3px solid yellow;
+    height: 40px;
+}
+
+.marginleft {
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.red {
+    color: red;
+}
